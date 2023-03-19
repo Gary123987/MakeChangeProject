@@ -1,6 +1,7 @@
 # MakeChangeProject
 
 ## Overview
+In this project, the goal was to create a program that could take a price of an item, the amount paid for the item, and return change in the largest denominations possible. I chose to take a simple approach to this, rather than trying to make everything run in a single for loop using complex math functions, a series of if statments was enough to get the job done. I started by find the total amount of change due, then using an if stament to determine how many twenties, tens, and so on. the if loop would only run if there was enough change for that denomination, meaning it wouldnt run for any denominations needed. I think there could be a more complicated solution, that could be done in one for loop, however the series of if statments seems to be simpler and more straightforward, making it easier to code and easier to read. 
 
 
 ## Technologies Used
